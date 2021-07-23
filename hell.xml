@@ -1,114 +1,59 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" version="2.0">
 <channel>
-<title>Hell of Presidents</title>
-<link>https://forums.somethingawful.com</link>
-<description>Presidents, hell</description>
+<title>Hell of Presidency</title>
+<link>https://forums.somethingawful.com/showthread.php?threadid=3891477</link>
+<description>Requiem for a Pres</description>
 <category>History</category>
 <itunes:owner>
-<itunes:name>Hell of Presidents</itunes:name>
+<itunes:name>Hall of Presidents</itunes:name>
 <itunes:email>support@patreon.com</itunes:email>
 </itunes:owner>
-<itunes:author>Hell of Presidents</itunes:author>
+<itunes:author>Matt Chrisman Wade</itunes:author>
 <itunes:category text="History"/>
-<itunes:image href="https://i1.sndcdn.com/artworks-RoqB9KLuFXlu3kxt-O9WmjQ-t500x500.jpg"/>
-<googleplay:block>yes</googleplay:block>
-<itunes:block>Yes</itunes:block>
+<itunes:image href="https://i.imgur.com/rwOoQkG.jpg"/>
 <language>en-US</language>
-<pubDate>Tue, 06 Jul 2021 06:00:54 GMT</pubDate>
-<lastBuildDate>Tue, 06 Jul 2021 06:00:54 GMT</lastBuildDate>
+<pubDate>Thurs, 22 Jul 2021 09:00:54 GMT</pubDate>
+<lastBuildDate>Thurs, 22 Jul 2021 09:00:54 GMT</lastBuildDate>
 <image>
-<url>https://i1.sndcdn.com/artworks-RoqB9KLuFXlu3kxt-O9WmjQ-t500x500.jpg</url>
-<title>Hell of Presidents</title>
-<link>https://blowback.show</link>
+<url>https://i.imgur.com/rwOoQkG.jpg</url>
+<title>Hall of Presidents</title>
+<link>https://forums.somethingawful.com/showthread.php?threadid=3891477</link>
+</image>
 <item>
-<title>Episode 1: The Jupiter Menace</title>
-<link>https://omny.fm/shows/blowback/s2-episode-1-the-jupiter-menace.mp3</link>
-<description>Welcome back. Brendan and Noah reveal this season’s subject, explore the USA’s unrelenting Cuba mania, and introduce the cast of characters.</description>
-<enclosure url="https://omny.fm/shows/blowback/s2-episode-1-the-jupiter-menace.mp3" type="audio/mpeg"/>
-<guid>https://omny.fm/shows/blowback/s2-episode-1-the-jupiter-menace.mp3</guid>
-<pubDate>18 Apr 2021 20:38:02 -0300</pubDate>
-<itunes:duration>46:39</itunes:duration>
+<title>Episode 1: Founding Daddies</title>
+<link>https://v3-fastupload.s3-accelerate.amazonaws.com/1627033204-HOP_Ep1_FINAL_mixdown.mp3?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIASQBHBZCRVR4NVFHK%2F20210723%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20210723T094111Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Signature=9ebe34832ec90e7dac5a0b2ff6cb7597118c580c468e3800c0a6d6a4fcad6519</link>
+<description>Constitution - Washington Get in the Presidency, George</description>
+<enclosure url="https://v3-fastupload.s3-accelerate.amazonaws.com/1627033204-HOP_Ep1_FINAL_mixdown.mp3?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIASQBHBZCRVR4NVFHK%2F20210723%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20210723T094111Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Signature=9ebe34832ec90e7dac5a0b2ff6cb7597118c580c468e3800c0a6d6a4fcad6519" type="audio/mpeg"/>
+<guid>https://v3-fastupload.s3-accelerate.amazonaws.com/1627033204-HOP_Ep1_FINAL_mixdown.mp3?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIASQBHBZCRVR4NVFHK%2F20210723%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20210723T094111Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Signature=9ebe34832ec90e7dac5a0b2ff6cb7597118c580c468e3800c0a6d6a4fcad6519</guid>
+<pubDate>18 Jul 2021 20:38:02 -0300</pubDate>
+<itunes:duration>1:19:19</itunes:duration>
 </item>
 <item>
-<title>Episode 2: Lo Hicimos</title>
-<link>https://omny.fm/shows/blowback/s2-episode-2-lo-hicimos.mp3</link>
-<description>A long short history of Cuba’s relationship with the United States, climaxing with the Cuban revolutionaries’ war to liberate the island from the dictator Batista and his backers in the United States.</description>
-<enclosure url="https://omny.fm/shows/blowback/s2-episode-2-lo-hicimos.mp3" type="audio/mpeg"/>
-<guid>https://omny.fm/shows/blowback/s2-episode-2-lo-hicimos.mp3</guid>
-<pubDate>18 Apr 2021 20:38:02 -0300</pubDate>
-<itunes:duration>1:20:26</itunes:duration>
+<title>Episode 2: Era of Bad Vibes</title>
+<link>https://v3-fastupload.s3-accelerate.amazonaws.com/1627033204-Episode%202%20-%20The%20Era%20of%20Bad%20Vibes.mp3?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIASQBHBZCRVR4NVFHK%2F20210723%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20210723T094112Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Signature=fe4691a47d4b91d0347f48e625f9b340ef39b54395ec4dd258f9647381d6ab42</link>
+<description>Adams - Jefferson - Madison - Monroe - Quincy Adams.  The first party system comes crashing down on JQA's nerdy shoulders.</description>
+<enclosure url="https://v3-fastupload.s3-accelerate.amazonaws.com/1627033204-Episode%202%20-%20The%20Era%20of%20Bad%20Vibes.mp3?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIASQBHBZCRVR4NVFHK%2F20210723%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20210723T094112Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Signature=fe4691a47d4b91d0347f48e625f9b340ef39b54395ec4dd258f9647381d6ab42" type="audio/mpeg"/>
+<guid>https://v3-fastupload.s3-accelerate.amazonaws.com/1627033204-Episode%202%20-%20The%20Era%20of%20Bad%20Vibes.mp3?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIASQBHBZCRVR4NVFHK%2F20210723%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20210723T094112Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Signature=fe4691a47d4b91d0347f48e625f9b340ef39b54395ec4dd258f9647381d6ab42</guid>
+<pubDate>19 Jul 2021 20:38:02 -0300</pubDate>
+<itunes:duration>1:11:47</itunes:duration>
 </item>
 <item>
-<title>Episode 3: New Normal</title>
-<link>https://omny.fm/shows/blowback/s2-episode-3-new-normal.mp3</link>
-<description>The Cuban Revolution takes power and the counter-revolution begins. The U.S. government, organized crime, and Cuban exiles carry out a campaign of terrorism, assassination, sabotage and psy-ops to turn back the clock.</description>
-<enclosure url="https://omny.fm/shows/blowback/s2-episode-3-new-normal.mp3" type="audio/mpeg"/>
-<guid>https://omny.fm/shows/blowback/s2-episode-3-new-normal.mp3</guid>
-<pubDate>18 Apr 2021 20:38:02 -0300</pubDate>
-<itunes:duration>1:16:34</itunes:duration>
+<title>Episode 3: The Little Magician</title>
+<link>https://v3-fastupload.s3-accelerate.amazonaws.com/1627033204-Episode%203%20-%20The%20Little%20Magician.mp3?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIASQBHBZCRVR4NVFHK%2F20210723%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20210723T094017Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Signature=f2ba7fc93ce2d7c209d7bbc7311c13717f78e48a6aeff011e39d728718d59158</link>
+<description>Van Buren, more like Van Borin</description>
+<enclosure url="https://v3-fastupload.s3-accelerate.amazonaws.com/1627033204-Episode%203%20-%20The%20Little%20Magician.mp3?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIASQBHBZCRVR4NVFHK%2F20210723%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20210723T094017Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Signature=f2ba7fc93ce2d7c209d7bbc7311c13717f78e48a6aeff011e39d728718d59158" type="audio/mpeg"/>
+<guid>https://v3-fastupload.s3-accelerate.amazonaws.com/1627033204-Episode%203%20-%20The%20Little%20Magician.mp3?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIASQBHBZCRVR4NVFHK%2F20210723%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20210723T094017Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Signature=f2ba7fc93ce2d7c209d7bbc7311c13717f78e48a6aeff011e39d728718d59158</guid>
+<pubDate>21 Jul 2021 20:38:02 -0300</pubDate>
+<itunes:duration>1:22:26</itunes:duration>
 </item>
 <item>
-<title>Episode 4: Secret Honor</title>
-<link>https://omny.fm/shows/blowback/s2-episode-4-secret-honor.mp3</link>
-<description>JFK outmuscles Richard Nixon on Cuba and into the White House. The CIA begins training Cuban exiles in Central America for an invasion. And Fidel pays a visit to Harlem.</description>
-<enclosure url="https://omny.fm/shows/blowback/s2-episode-4-secret-honor.mp3" type="audio/mpeg"/>
-<guid>https://omny.fm/shows/blowback/s2-episode-4-secret-honor.mp3</guid>
-<pubDate>18 Apr 2021 20:38:02 -0300</pubDate>
+<title>Episode 4: The Lake of Shit</title>
+<link>https://v3-fastupload.s3-accelerate.amazonaws.com/1627033400-Episode%204%20-%20The%20Lake%20Of%20Shit.mp3?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIASQBHBZCRVR4NVFHK%2F20210723%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20210723T094327Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Signature=61bace4e8250c7df53a8ad4d66a083e70268be5757aaa481ca77b4a0b2710d23</link>
+<description>Andrew Jacking Off My Big Dick</description>
+<enclosure url="https://v3-fastupload.s3-accelerate.amazonaws.com/1627033400-Episode%204%20-%20The%20Lake%20Of%20Shit.mp3?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIASQBHBZCRVR4NVFHK%2F20210723%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20210723T094327Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Signature=61bace4e8250c7df53a8ad4d66a083e70268be5757aaa481ca77b4a0b2710d23" type="audio/mpeg"/>
+<guid>https://v3-fastupload.s3-accelerate.amazonaws.com/1627033400-Episode%204%20-%20The%20Lake%20Of%20Shit.mp3?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIASQBHBZCRVR4NVFHK%2F20210723%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20210723T094327Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Signature=61bace4e8250c7df53a8ad4d66a083e70268be5757aaa481ca77b4a0b2710d23</guid>
+<pubDate>22 Jul 2021 20:38:02 -0300</pubDate>
 <itunes:duration>1:15:38</itunes:duration>
-</item>
-<item>
-<title>Episode 5: Fish is Red</title>
-<link>https://omny.fm/shows/blowback/s2-episode-5-fish-is-red.mp3</link>
-<description>The CIA and the Cuban exiles get their long-awaited shot at taking out Castro and the Revolution. The subsequent battle in Cuba sends shockwaves around the world.</description>
-<enclosure url="https://omny.fm/shows/blowback/s2-episode-5-fish-is-red.mp3" type="audio/mpeg"/>
-<guid>https://omny.fm/shows/blowback/s2-episode-5-fish-is-red.mp3</guid>
-<pubDate>18 Apr 2021 20:38:02 -0300</pubDate>
-<itunes:duration>59:30</itunes:duration>
-</item>
-<item>
-<title>Episode 6: Nothing to Lose</title>
-<link>https://omny.fm/shows/blowback/s2-episode-6-nothing-to-lose.mp3</link>
-<description>Smarting from failure at the Bay of Pigs, the White House sets in motion a new plan to thwart the Cuban Revolution: Operation Mongoose.</description>
-<enclosure url="https://omny.fm/shows/blowback/s2-episode-6-nothing-to-lose.mp3" type="audio/mpeg"/>
-<guid>https://omny.fm/shows/blowback/s2-episode-6-nothing-to-lose.mp3</guid>
-<pubDate>18 Apr 2021 20:38:02 -0300</pubDate>
-<itunes:duration>1:02:57</itunes:duration>
-</item>
-<item>
-<title>Episode 7: Anadyr</title>
-<link>https://omny.fm/shows/blowback/s2-episode-7-anadyr.mp3</link>
-<description>Fearing another American invasion — "the big one" — Soviet and Cuban leaders plot a secret response. Camelot never sees it coming.</description>
-<enclosure url="https://omny.fm/shows/blowback/s2-episode-7-anadyr.mp3" type="audio/mpeg"/>
-<guid>https://omny.fm/shows/blowback/s2-episode-7-anadyr.mp3</guid>
-<pubDate>18 Apr 2021 20:38:02 -0300</pubDate>
-<itunes:duration>1:02:57</itunes:duration>
-</item>
-<item>
-<title>Episode 8: We'll All Meet In Hell</title>
-<link>https://omny.fm/shows/blowback/s2-episode-8-we-ll-all-meet-in-hell.mp3</link>
-<description>The USA announces to the world there are missiles in Cuba. Fidel prepares for war. Khrushchev secretly haggles with Kennedy. Americans enjoy Betty Crocker Super Moist Cake Mix.</description>
-<enclosure url="https://omny.fm/shows/blowback/s2-episode-8-we-ll-all-meet-in-hell.mp3" type="audio/mpeg"/>
-<guid>https://omny.fm/shows/blowback/s2-episode-8-we-ll-all-meet-in-hell.mp3</guid>
-<pubDate>18 Apr 2021 20:38:02 -0300</pubDate>
-<itunes:duration>1:05:50</itunes:duration>
-</item>
-<item>
-<title>Episode 9: Cuba Libra</title>
-<link>https://omny.fm/shows/blowback/s2-episode-9-cuba-libra.mp3</link>
-<description>Castro, Khrushchev, and Kennedy take tentative steps toward the path of peace post-Crisis. Cuban exile groups, and their CIA sponsors, are not pleased.</description>
-<enclosure url="https://omny.fm/shows/blowback/s2-episode-9-cuba-libra.mp3" type="audio/mpeg"/>
-<guid>https://omny.fm/shows/blowback/s2-episode-9-cuba-libra.mp3</guid>
-<pubDate>18 Apr 2021 20:38:02 -0300</pubDate>
-<itunes:duration>1:22:42</itunes:duration>
-</item>
-<item>
-<title>Episode 10: Infinity Crisis</title>
-<link>https://omny.fm/shows/blowback/s2-episode-10-infinite-crisis.mp3</link>
-<description>After the Kennedy assassination, US-Cuba diplomacy wanes and the embargo continues. To this day. Our story ends.</description>
-<enclosure url="https://omny.fm/shows/blowback/s2-episode-10-infinite-crisis.mp3" type="audio/mpeg"/>
-<guid>https://omny.fm/shows/blowback/s2-episode-10-infinite-crisis.mp3</guid>
-<pubDate>18 Apr 2021 20:38:02 -0300</pubDate>
-<itunes:duration>1:17:28</itunes:duration>
 </item>
 </channel>
 </rss>
