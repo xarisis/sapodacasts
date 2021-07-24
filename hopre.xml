@@ -12,8 +12,8 @@
 <itunes:category text="History"/>
 <itunes:image href="https://i.imgur.com/rwOoQkG.jpg"/>
 <language>en-US</language>
-<pubDate>Fri, 23 Jul 2021 09:00:54 GMT</pubDate>
-<lastBuildDate>Fri, 23 Jul 2021 09:00:54 GMT</lastBuildDate>
+<pubDate>Fri, 23 Jul 2021 12:00:54 GMT</pubDate>
+<lastBuildDate>Fri, 23 Jul 2021 12:00:54 GMT</lastBuildDate>
 <image>
 <url>https://i.imgur.com/rwOoQkG.jpg</url>
 <title>Hall of Presidents</title>
@@ -53,6 +53,15 @@
 <enclosure url="https://www.mboxdrive.com/Episode 4 - The Lake Of Shit.mp3" type="audio/mpeg"/>
 <guid>https://www.mboxdrive.com/Episode 4 - The Lake Of Shit.mp3</guid>
 <pubDate>22 Jul 2021 20:38:02 -0300</pubDate>
+<itunes:duration>1:15:38</itunes:duration>
+</item>
+<item>
+<title>Episode 5: But How Was the Play?</title>
+<link>https://www.mboxdrive.com/Episode 5 - But How Was The Play</link>
+<description>Pierce - Buchanan - Lincoln - Johnson</description>
+<enclosure url="https://www.mboxdrive.com/Episode 5 - But How Was The Play" type="audio/mpeg"/>
+<guid>https://www.mboxdrive.com/Episode 5 - But How Was The Play</guid>
+<pubDate>23 Jul 2021 20:38:02 -0300</pubDate>
 <itunes:duration>1:15:38</itunes:duration>
 </item>
 </channel>
